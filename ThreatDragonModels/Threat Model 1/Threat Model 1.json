@@ -165,7 +165,7 @@
               "outOfScope": false,
               "reasonOutOfScope": "",
               "isALog": false,
-              "storesCredentials": false,
+              "storesCredentials": true,
               "isEncrypted": false,
               "isSigned": false,
               "hasOpenThreats": true,
