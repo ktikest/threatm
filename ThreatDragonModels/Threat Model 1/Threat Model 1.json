@@ -140,6 +140,9 @@
               "height": 60
             },
             "attrs": {
+              "text": {
+                "text": "User data"
+              },
               "topLine": {
                 "stroke": "red",
                 "strokeWidth": 2.5,
@@ -157,7 +160,7 @@
             "zIndex": 3,
             "data": {
               "type": "tm.Store",
-              "name": "Store",
+              "name": "User data",
               "description": "",
               "outOfScope": false,
               "reasonOutOfScope": "",
